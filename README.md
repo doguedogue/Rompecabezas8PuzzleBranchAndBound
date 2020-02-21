@@ -16,7 +16,6 @@ La búsqueda para un nodo respuesta puede a veces ser rápida usando una funció
 The search for algorithms to solve this problem comes from my days at the University, I tried to do a search for "brute force" today I know that it is an uninformed search, and that there are billions of possibilities, at that time I felt Stark (Father) saying that the computer ran out of memory and that in the future I could find the solution since it was limited by the technology of my time (ha).
 
 I also implemented the A* algorithm through heuristic search, however, I realized that there are also cases that cannot be solved (impossible). Impossible, this term seemed strange to me as the name of a final configuration in the plastic game that they sold for children
-! [Puzzle 1] (img / puzzle1.png)
 However, I soon realized that, if so, impossible, if we removed a couple of pieces from the board and exchanged them that scenario could be solved, but the other scenarios were no longer possible to solve them (spiral, inverted, etc.)
 
 In my search I found a thousand solutions, but few with a definitive one, I found cases that used optimizations to speed up how to obtain a random movement, or diagonal movements, well, that I no longer considered them much, the optimizations if I make good improvements, what I tried was something more attached to reality, I have made cases of up to 21 movements and I have a strong search that would take less than a minute, others, the easy ones, maybe 5 or 10 seconds (computer time of the year 2020).

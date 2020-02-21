@@ -27,7 +27,9 @@ I found several implementations in different programming languages, c ++, phyton
 La búsqueda de algoritmos para la resolución de este problema viene desde mis días en la Universidad, intenté hacer una búsqueda por "fuerza bruta" hoy se que es una búsqueda no informada, y que hay billones de posibilidades, en ese tiempo me sentí Stark (Padre) diciendo que la computadora se quedaba sin memoria y que en el futuro podría encontrar la solución ya que estaba limitado por la tecnología de mi tiempo (ja). 
 
 También implementé el algoritmo A* mediante búsqueda heurística sin embargo, me di cuenta que también hay casos que no pueden resolverse (imposibles); Imposible, este término se me hacía extraño como nombre de una configuración final en el juego plástico que vendían para niños 
+
 ![Rompecabezas 1](img/puzzle.png)
+
 Sin embargo, pronto me di cuenta que, si era así, imposible, si quitábamos un par de piezas del tablero y las intercambiábamos se podía resolver ese escenario, pero los demás escenarios ya no eran posible resolverlos  (espiral, invertido, etc.)
 
 En mi búsqueda me encontré con mil soluciones, pero pocos con una definitiva, encontré casos que usaban optimizaciones para agilizar como obtener un movimiento aleatorio, o movimientos en diagonal, bueno, eso ya no los consideré mucho, las optimizaciones si se me hacen buenas mejoras, lo que intenté fue algo más apegado a la realidad, he hecho casos de hasta 21 movimientos y se me hace una búsqueda fuerte que tardaría menos de un minuto, otras, las fáciles, quizás 5 o 10 segundos (tiempo de computadora del año 2020).

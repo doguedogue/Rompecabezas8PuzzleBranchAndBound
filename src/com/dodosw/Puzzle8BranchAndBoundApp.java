@@ -1,9 +1,9 @@
 package com.dodosw;
 
 /**
- * @author RVILCHES
+ * @author doguedogue
  * 
- * Implementación de algoritmo de XXX
+ * ImplementaciÃ³n de algoritmo de XXX
  * (https://YYYYYYYY)
  */
 
@@ -76,7 +76,7 @@ public class Puzzle8BranchAndBoundApp {
 //							{8, 0, 4}, 
 //							{7, 6, 5}};
 
-		//Caso 9 - si, Fácil (Dr. T. Colburn)
+		//Caso 9 - si, FÃ¡cil (Dr. T. Colburn)
 //		int[][] initial = {	{1, 3, 4}, 
 //							{8, 6, 2}, 
 //							{7, 0, 5}};

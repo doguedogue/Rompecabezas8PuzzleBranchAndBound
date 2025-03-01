@@ -1,7 +1,7 @@
 package com.dodosw;
 
 /**
- * @author RVILCHES
+ * @author doguedogue
  * 
 **/
 

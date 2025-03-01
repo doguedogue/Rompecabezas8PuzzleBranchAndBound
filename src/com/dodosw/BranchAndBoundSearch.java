@@ -1,7 +1,7 @@
 package com.dodosw;
 
 /**
- * @author RVILCHES
+ * @author doguedogue
  * 
 **/
 
@@ -41,7 +41,7 @@ public class BranchAndBoundSearch {
 			if (min.getCost() == 0){ 
 				// print the path from root to destination; 
 				printPath(min); 
-				System.out.println("Número de pasos: "+min.getLevel());
+				System.out.println("NÃºmero de pasos: "+min.getLevel());
 				return; 
 			} 
 
